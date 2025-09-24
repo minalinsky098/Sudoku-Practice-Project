@@ -3,4 +3,5 @@ def main():
     
 if "__main__" == __name__ :
     sudoku = main()
+    print("Hello")
     print(sudoku)
